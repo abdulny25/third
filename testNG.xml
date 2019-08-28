@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+<suite name="AmazonMaven">
+	
+
+	
+	
+  <test name="Amazon Maven" >
+  	
+    <classes>
+       <class name="com.AmazonMaven.testCases.TC_HomePage001" />
+       <class name="com.AmazonMaven.testCases.TC_TodaysDeal" />
+    </classes>
+  </test>
+  
+
+ 
+
+</suite>

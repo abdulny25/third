@@ -1,0 +1,5 @@
+com\AmazonMaven\pageObjects\TodaysDealPage.class
+com\AmazonMaven\testCases\TC_TodaysDeal.class
+com\AmazonMaven\pageObjects\HomePage.class
+com\AmazonMaven\testCases\BaseClass.class
+com\AmazonMaven\testCases\TC_HomePage001.class
